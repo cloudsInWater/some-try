@@ -1,0 +1,25 @@
+.App{
+    width:1000px;
+    margin:0 auto;
+    border:1px solid #ccc;
+    
+}
+.your-choice{
+    width:1000px;
+    margin:0px auto 0 auto;
+    display: flex;
+    align-items: center;
+    border:1px solid #ccc;
+    height:80px;
+}
+.your-choice a{
+    flex: 2;
+    font-size:20px;
+    color:blueviolet;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    border:1px solid #ccc;
+    height:100%;
+    line-height:80px;
+}
