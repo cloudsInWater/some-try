@@ -1,3 +1,5 @@
+
+// https://jsfiddle.net/w9gFj
 $(document).ready(function () {
 
     function onMouseUp(e) {
